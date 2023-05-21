@@ -1,2 +1,2 @@
-# pillow_modpack
+# Pillow Modpack
 Modpack required for Pillow Server.
